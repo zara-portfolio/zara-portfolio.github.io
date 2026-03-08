@@ -1,0 +1,103 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>2026 So Far: Theatre and Science</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f0f4f8;
+      margin: 0;
+      padding: 0;
+      color: #333;
+    }
+    header {
+      background: #222;
+      color: #fff;
+      padding: 25px 0;
+      text-align: center;
+    }
+    .date {
+      color: #bbb;
+      font-size: 0.9rem;
+      margin-top: 5px;
+    }
+    .container {
+      width: 90%;
+      max-width: 800px;
+      margin: 25px auto;
+      background: #fff;
+      padding: 25px;
+      border-radius: 8px;
+      box-shadow: 0 0 12px rgba(0,0,0,0.08);
+      line-height: 1.6;
+    }
+    h1 {
+      color: #007BFF;
+      margin-bottom: 0;
+    }
+    h2 {
+      margin-top: 30px;
+      color: #444;
+    }
+    ul {
+      margin-top: 10px;
+    }
+    a {
+      color: #007BFF;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>2026 So Far</h1>
+    <div class="date">March 2026</div>
+  </header>
+
+  <div class="container">
+
+    <p>2026 has already been a really busy year for me. So far it has been a mix of creative work and scientific research, especially preparing for my school musical and working on my science fair project.</p>
+
+    <h2>School Musical – Willy Wonka</h2>
+
+    <p>This year I'm participating in my school's musical production of <em>Charlie and the Chocolate Factory</em>, where I'm playing <strong>Willy Wonka</strong>.</p>
+
+    <p>Since I'm really interested in acting, Willy Wonka was a role that allowed me to challenge myself both when auditioning and now during rehearsals and performances. The character has a lot of personality — he's mysterious, energetic, and sometimes unpredictable — which makes him really fun to perform.</p>
+
+    <p>Rehearsals include acting, singing, and stage choreography, and it's been a great experience working with a large group of people to put the production together.</p>
+
+    <h2>Science Fair Research</h2>
+
+    <p>Alongside the musical, I'm also preparing my project for the science fair. My research focuses on how different light wavelengths — specifically <strong>red and blue light</strong> — affect <strong>lipid accumulation in marimo algae</strong>.</p>
+
+    <p>This is an important topic because lipids store more energy than carbohydrates, which makes them useful for producing <strong>biofuels</strong>. Algae are especially interesting for biofuel research because they grow quickly and can be cultivated without competing for land used in agriculture.</p>
+
+    <h2>My Experiment</h2>
+
+    <p>In my experiment, I'm growing marimo algae under different lighting conditions:</p>
+
+    <ul>
+      <li>Red light</li>
+      <li>Blue light</li>
+    </ul>
+
+    <p>By keeping other factors like temperature, nutrients, and growth time constant, I can observe how the different wavelengths affect lipid accumulation.</p>
+
+    <p>If certain wavelengths encourage greater lipid production, this could help researchers improve methods for producing algae-based biofuels.</p>
+
+    <h2>Looking Ahead</h2>
+
+    <p>The start of 2026 has already been packed with rehearsals and research, and it's been a really interesting combination of science and theatre. I'm looking forward to performing in the musical and finishing my science fair project, and I'll probably post another update once I have results from the experiment.</p>
+
+    <p><a href="../index.html">← Back to Blog</a></p>
+
+  </div>
+</body>
+</html>
